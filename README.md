@@ -3,3 +3,8 @@ This is fully qb-robbery with it all changed over to work fully in the RFC mappi
 
 
 Made this for my roleplay server no one else has done it do not sell it either or claim as your own its the qb teams work and a small amount of mine end of!
+
+
+to make this work you will need the Rocks in socks MLO by rfc mapping: https://store.rfcmapping.com/package/5605556
+you will then drag and drop this file into your [qb] folder and then add ensure Rocks-in-Socks-Robbery
+then either restart the server or refresh and start it 
